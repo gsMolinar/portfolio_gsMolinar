@@ -64,7 +64,7 @@ export default function App() {
               <strong>Universidad Autónoma de Ciudad Juárez (UACJ)</strong>
             </p>
             <p className="item-subtitle">Ingeniería en Sistemas Computacionales</p>
-            <p className="item-detail">2.º semestre | Promedio: 9.2</p>
+            <p className="item-detail">3.º semestre | Promedio: 9.1</p>
           </section>
           
           <section className="cv-section">
